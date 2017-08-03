@@ -1,4 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Rock+Salt);
+
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
 
 * {
   box-sizing: border-box;
@@ -681,8 +682,8 @@ html {
   h1 {
     color: #fff;
     margin: 0 0 .35em 0;
-    font-family: "Rock Salt", cursive;
-    font-size: 3.25rem;
+    font-family: "Poiret One", cursive;
+    font-size: 2.35rem;
     transition: color .2s ease;
     -webkit-font-smoothing: antialiased;
   }
@@ -693,6 +694,8 @@ html {
 
 .sidebar-nav {
   padding-left: 0;
+  font-family: "Poiret One", cursive;
+  font-size: 1.25rem;
   list-style: none;
 }
 
